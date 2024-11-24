@@ -20,17 +20,19 @@ public class Arac extends BaseEntity{
 //    }
 
 
+    public Arac() {
+    }
 
-
-
-
-    public Arac(boolean kiralanabilirMi, int km, String yakitTuru, String sanziman, int yil, String plaka) {
+    public Arac(boolean kiralanabilirMi, int km, String yakitTuru, String sanziman, int yil, String plaka,Marka marka, Model model ) {
+        this.marka=marka;
+        this.model=model;
         this.kiralanabilirMi = kiralanabilirMi;
         this.km = km;
         this.yakitTuru = yakitTuru;
         this.sanziman = sanziman;
         this.yil = yil;
         this.plaka = plaka;
+
 
     }
 

@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/J009_Tekrar/J009_Tekrar.iml" filepath="$PROJECT_DIR$/J009_Tekrar/J009_Tekrar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/J012_Alistirmalar/J012_Alistirmalar.iml" filepath="$PROJECT_DIR$/J012_Alistirmalar/J012_Alistirmalar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/J016_ConstructurMethod/J016_ConstructurMethod.iml" filepath="$PROJECT_DIR$/J016_ConstructurMethod/J016_ConstructurMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVA_STANDART_EDITION.iml" filepath="$PROJECT_DIR$/.idea/JAVA_STANDART_EDITION.iml" />
     </modules>
   </component>

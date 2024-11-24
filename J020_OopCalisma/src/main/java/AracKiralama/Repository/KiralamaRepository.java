@@ -7,7 +7,7 @@ import java.util.UUID;
 public class KiralamaRepository implements Repository <Kiralama> {
     @Override
     public void save(Kiralama entity) {
-        System.out.println(entity.getArac().getMarka().getMarkaAdi()+" Kaydedildi..");
+        System.out.println(entity.getKiralamaTarihi()+" Kaydedildi..");
 
     }
 

@@ -9,7 +9,7 @@ public class AracRepository implements Repository<Arac> {
 
     @Override
     public void save(Arac entity) {
-        System.out.println(entity.getMarka().getMarkaAdi() + "kaydedildi");
+        System.out.println(entity.getMarka().getMarkaAdi()+ "kaydedildi");
     }
 
     @Override

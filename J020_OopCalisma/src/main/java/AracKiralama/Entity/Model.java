@@ -4,8 +4,8 @@ public class Model extends Arac{
 
     private String modelAdi;
 
-    public Model(String modelAdi) {
-        super();
+    public Model(String modelAdi ) {
+
         this.modelAdi = modelAdi;
     }
 
