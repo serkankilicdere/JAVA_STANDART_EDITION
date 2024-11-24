@@ -1,0 +1,25 @@
+ /**
+         * OkulSinifOdev.Okul Otomasyon,
+         * Ders Listesi -> String[] dersList; // 5 ders girirlecek
+         *
+         * ***** OKUL OTOMASYON *****
+         * 1- Ders Ekleme
+         *
+         *      kaç ders girmek istiyorsunuz..: 3
+         *      1. ders...:
+         *      2. ders...:
+         *      3. ders...:
+         *
+         * 2- Ders Listesi
+         *         **** ders listesi ****
+         *         1-
+         *         2-
+         *         3-
+         * 3- Ders Arama
+         *       ders adı.....: mat
+         *       +
+         * 0- ÇIKIŞ
+         * seçiniz......: 2
+         *
+         *
+         */

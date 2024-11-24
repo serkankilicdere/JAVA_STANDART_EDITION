@@ -1,0 +1,11 @@
+private String[] list = null;
+   private int size = 0;
+   private int currentIndex = -1;
+    /**
+     * Ekle - Add
+     * Araya Ekle - Insert
+     * Sil - Delete/Remove
+     * Güncelle - Update
+     * Listele - List
+     *
+     */

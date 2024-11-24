@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f989b538-6100-40e9-8ef3-a46ed7184c73" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J010_MetodveTurleri/.gradle/8.8/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J010_MetodveTurleri/.gradle/8.8/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J010_MetodveTurleri/.gradle/8.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J010_MetodveTurleri/.gradle/8.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J010_MetodveTurleri/.gradle/8.8/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J010_MetodveTurleri/.gradle/8.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J010_MetodveTurleri/.gradle/8.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J010_MetodveTurleri/.gradle/8.8/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J010_MetodveTurleri/.gradle/8.8/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J010_MetodveTurleri/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J010_MetodveTurleri/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J010_MetodveTurleri/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J010_MetodveTurleri/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J010_MetodveTurleri/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J010_MetodveTurleri/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J010_MetodveTurleri/build/classes/java/main/Metodlar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J010_MetodveTurleri/build/classes/java/main/RunnerOrnek_001.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J010_MetodveTurleri/build/classes/java/main/RunnerOrnek_001_VarArgs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J010_MetodveTurleri/build/classes/java/main/RunnerOrnek_002.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J010_MetodveTurleri/build/classes/java/main/RunnerOrnek_003.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J010_MetodveTurleri/build/classes/java/main/RunnerOrnek_004.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J010_MetodveTurleri/build/classes/java/main/RunnerOrnek_005.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J010_MetodveTurleri/build/classes/java/main/RunnerOrnek_006.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J010_MetodveTurleri/build/classes/java/main/RunnerOrnek_007.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J010_MetodveTurleri/build/classes/java/main/RunnerOrnek_008.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J010_MetodveTurleri/build/classes/java/main/RunnerOrnek_009.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J010_MetodveTurleri/build/classes/java/main/RunnerOrnek_OverLoading.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J010_MetodveTurleri/build/classes/java/main/RunnerOrnek_ReturnType_NoParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J010_MetodveTurleri/build/classes/java/main/RunnerOrnek_ReturnType_WithParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J010_MetodveTurleri/build/classes/java/main/RunnerOrnek_Scope.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J010_MetodveTurleri/build/classes/java/main/RunnerOrnek_Varargs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J010_MetodveTurleri/build/classes/java/main/RunnerOrnek_VoidNoParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J010_MetodveTurleri/build/tmp/compileJava/compileTransaction/stash-dir/RunnerOrnek_001_VarArgs.class.uniqueId0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J010_MetodveTurleri/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J010_MetodveTurleri/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J011_ClassAndObject/.gradle/8.8/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J011_ClassAndObject/.gradle/8.8/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J011_ClassAndObject/.gradle/8.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J011_ClassAndObject/.gradle/8.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J011_ClassAndObject/.gradle/8.8/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J011_ClassAndObject/.gradle/8.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J011_ClassAndObject/.gradle/8.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J011_ClassAndObject/.gradle/8.8/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J011_ClassAndObject/.gradle/8.8/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J011_ClassAndObject/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J011_ClassAndObject/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J011_ClassAndObject/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J011_ClassAndObject/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J011_ClassAndObject/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J011_ClassAndObject/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J011_ClassAndObject/build/classes/java/main/Class_001_Islemler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J011_ClassAndObject/build/classes/java/main/Class_001_Islemler_SinifYaratma.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J011_ClassAndObject/build/classes/java/main/Ornek_001/Ogrenci.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J011_ClassAndObject/build/classes/java/main/Ornek_001/OzelListe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J011_ClassAndObject/build/classes/java/main/Ornek_001/Runner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J011_ClassAndObject/build/classes/java/main/Ornek_001/RunnerOrnek.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J011_ClassAndObject/build/classes/java/main/Ornekler/MusteriListesi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J011_ClassAndObject/build/classes/java/main/Ornekler/Soru001.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J011_ClassAndObject/build/classes/java/main/Uygulama/AppRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J011_ClassAndObject/build/classes/java/main/Uygulama/MusteriIslemleri.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J011_ClassAndObject/build/classes/java/main/Uygulama/Veriler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J011_ClassAndObject/build/tmp/compileJava/compileTransaction/stash-dir/Soru001.class.uniqueId1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J011_ClassAndObject/build/tmp/compileJava/compileTransaction/stash-dir/musteriListesi.class.uniqueId0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J011_ClassAndObject/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J011_ClassAndObject/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J012_Alistirmalar/.gradle/8.8/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J012_Alistirmalar/.gradle/8.8/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J012_Alistirmalar/.gradle/8.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J012_Alistirmalar/.gradle/8.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J012_Alistirmalar/.gradle/8.8/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J012_Alistirmalar/.gradle/8.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J012_Alistirmalar/.gradle/8.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J012_Alistirmalar/.gradle/8.8/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J012_Alistirmalar/.gradle/8.8/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J012_Alistirmalar/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J012_Alistirmalar/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J012_Alistirmalar/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J012_Alistirmalar/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J012_Alistirmalar/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J012_Alistirmalar/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J012_Alistirmalar/build/classes/java/main/Anakart/AnaKart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J012_Alistirmalar/build/classes/java/main/Anakart/AnakartSatis.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J012_Alistirmalar/build/classes/java/main/OkulSinifOdev/Okul.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J012_Alistirmalar/build/classes/java/main/OkulSinifOdev/Sinif.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J012_Alistirmalar/build/classes/java/main/UrunTakip/Runner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J012_Alistirmalar/build/classes/java/main/UrunTakip/controller/UrunController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J012_Alistirmalar/build/classes/java/main/UrunTakip/entity/Urun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J012_Alistirmalar/build/classes/java/main/UrunTakip/repository/UrunDeposu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J012_Alistirmalar/build/classes/java/main/UrunTakip/service/UrunServis.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J012_Alistirmalar/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J012_Alistirmalar/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J013_PaketEntityAccessmodifier/.gradle/8.8/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J013_PaketEntityAccessmodifier/.gradle/8.8/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J013_PaketEntityAccessmodifier/.gradle/8.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J013_PaketEntityAccessmodifier/.gradle/8.8/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J013_PaketEntityAccessmodifier/.gradle/8.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J013_PaketEntityAccessmodifier/.gradle/8.8/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J013_PaketEntityAccessmodifier/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J013_PaketEntityAccessmodifier/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J013_PaketEntityAccessmodifier/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J013_PaketEntityAccessmodifier/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J013_PaketEntityAccessmodifier/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J014_StaticKavrami/.gradle/8.8/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J014_StaticKavrami/.gradle/8.8/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J014_StaticKavrami/.gradle/8.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J014_StaticKavrami/.gradle/8.8/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J014_StaticKavrami/.gradle/8.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J014_StaticKavrami/.gradle/8.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J014_StaticKavrami/.gradle/8.8/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J014_StaticKavrami/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J014_StaticKavrami/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J014_StaticKavrami/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J014_StaticKavrami/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J014_StaticKavrami/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/.gradle/8.8/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/.gradle/8.8/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/.gradle/8.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/.gradle/8.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/.gradle/8.8/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/.gradle/8.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/.gradle/8.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/.gradle/8.8/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/.gradle/8.8/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/BankaMusteri/BankaHesabi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/BankaMusteri/Musteri.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/CalisanPersonel/BuroPersoneli.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/CalisanPersonel/Calisan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/CalisanPersonel/InsanKaynaklari.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/CalisanPersonel/Mudur.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/CalisanPersonel/Muhendis.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/CalisanPersonel/RunnerCalisan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/CalisanPersonel/Tekniker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/Encapsulation/Satis.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/HepsiBuradaOrnekUyg/Marka.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/HepsiBuradaOrnekUyg/Model.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/HepsiBuradaOrnekUyg/Runner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/HepsiBuradaOrnekUyg/Urun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/HepsiBuradaOrnekUyg/Yorum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/Inheritance/AracArabaKamyonMotor/Araba.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/Inheritance/AracArabaKamyonMotor/Kamyon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/Inheritance/AracArabaKamyonMotor/KaraTasiti.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/Inheritance/AracArabaKamyonMotor/Motorsiklet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/Inheritance/AracArabaKamyonMotor/Runner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/Inheritance/BalikKediHayvanlar/Balik.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/Inheritance/BalikKediHayvanlar/Hayvanlar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/Inheritance/BalikKediHayvanlar/Kedi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/Inheritance/BalikKediHayvanlar/Runner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/Inheritance/Runner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/Okul/IlkOkul.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/Okul/Lise.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/Okul/OkulGenel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/Okul/OkulRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/Okul/OrtaOkul.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/OverloadingOverriding/Runner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/SuperAndThis/Araba.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/SuperAndThis/Arac.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/SuperAndThis/Runner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/SuperAndThis/Ucak.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/Urun_Odev/BeyazEsya.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/Urun_Odev/Bilgisayar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/Urun_Odev/Giyim.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/Urun_Odev/Mobilya.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/Urun_Odev/RunnerUrun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/classes/java/main/Urun_Odev/UrunParent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/tmp/compileJava/compileTransaction/stash-dir/RunnerUrun.class.uniqueId0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J015_OopParadigm/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J017_FinalKeyword/.gradle/8.8/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J017_FinalKeyword/.gradle/8.8/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J017_FinalKeyword/.gradle/8.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J017_FinalKeyword/.gradle/8.8/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J017_FinalKeyword/.gradle/8.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J017_FinalKeyword/.gradle/8.8/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J017_FinalKeyword/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J017_FinalKeyword/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J017_FinalKeyword/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J017_FinalKeyword/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J017_FinalKeyword/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J018_AbstractClass/.gradle/8.8/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J018_AbstractClass/.gradle/8.8/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J018_AbstractClass/.gradle/8.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J018_AbstractClass/.gradle/8.8/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J018_AbstractClass/.gradle/8.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J018_AbstractClass/.gradle/8.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J018_AbstractClass/.gradle/8.8/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J018_AbstractClass/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J018_AbstractClass/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J018_AbstractClass/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J018_AbstractClass/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J018_AbstractClass/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J019_Enum/.gradle/8.8/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J019_Enum/.gradle/8.8/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J019_Enum/.gradle/8.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J019_Enum/.gradle/8.8/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J019_Enum/.gradle/8.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J019_Enum/.gradle/8.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J019_Enum/.gradle/8.8/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J019_Enum/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J019_Enum/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J019_Enum/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J019_Enum/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J019_Enum/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J020_OopCalisma/.gradle/8.8/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J020_OopCalisma/.gradle/8.8/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J020_OopCalisma/.gradle/8.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J020_OopCalisma/.gradle/8.8/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J020_OopCalisma/.gradle/8.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J020_OopCalisma/.gradle/8.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J020_OopCalisma/.gradle/8.8/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J020_OopCalisma/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J020_OopCalisma/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J020_OopCalisma/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J020_OopCalisma/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J020_OopCalisma/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J020_OopCalisma/src/main/java/AracKiralama/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J020_OopCalisma/src/main/java/AracKiralama/Utility/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J012_Alistirmalar/Anakart/AnaKart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J012_Alistirmalar/Anakart/AnakartSatis.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J012_Alistirmalar/ConstructorAndEncapsulation/BankAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J012_Alistirmalar/ConstructorAndEncapsulation/RunnerBankAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J012_Alistirmalar/InheritanceAndOverriding/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J012_Alistirmalar/InheritanceAndOverriding/RunnerPerson.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J012_Alistirmalar/InheritanceAndOverriding/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J012_Alistirmalar/InheritanceAndOverriding/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J012_Alistirmalar/OkulSinifOdev/Okul.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J012_Alistirmalar/OkulSinifOdev/Sinif.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J012_Alistirmalar/OopSosyalMedyaUYG/OopSosyalMedyaUyg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J012_Alistirmalar/TumSorular/Alistirmalar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J012_Alistirmalar/TumSorular/IlkAlistirmalar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J012_Alistirmalar/TumSorular/Soru_001__Runner99_MethodKavrami" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J012_Alistirmalar/TumSorular/Soru_002__Runner06veA_MethodKavrami" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J012_Alistirmalar/TumSorular/Soru_003__Runner01_Alistirmalar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J012_Alistirmalar/TumSorular/Soru_004__Runner02_Alistirmalar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J012_Alistirmalar/TumSorular/Soru_005__Soru1_ClassObjectKavrami_Ornekler" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J012_Alistirmalar/TumSorular/Soru_006__MusteriIslemleri_ClassObjectKavrami_Uygulama" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J012_Alistirmalar/TumSorular/Soru_007__OzelListe_ClassObjectKavrami_Ornekler" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J012_Alistirmalar/TumSorular/Soru_008__RunnerSoru2_Diziler" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J012_Alistirmalar/TumSorular/Soru_009__RunnerOrnek2_StringDegiskeni" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J012_Alistirmalar/TumSorular/Soru_010__RunnerOrnek3_StringDegiskeni" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J012_Alistirmalar/TumSorular/Soru_011__Odev_KararYapilari" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J012_Alistirmalar/TumSorular/Soru_012__RunnerIfOrnek4_KararYapilari" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J012_Alistirmalar/TumSorular/Soru_013__RunnerIfOrnek6_KararYapilari" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J012_Alistirmalar/TumSorular/Soru_014__RunnerForOrnek8_Donguler" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J012_Alistirmalar/TumSorular/Soru_015__MethodClass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J012_Alistirmalar/TumSorular/Soru_016_ClassOrnekleri" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J012_Alistirmalar/UrunTakip/Runner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J012_Alistirmalar/UrunTakip/controller/UrunController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J012_Alistirmalar/UrunTakip/entity/Urun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J012_Alistirmalar/UrunTakip/odevKonu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J012_Alistirmalar/UrunTakip/repository/UrunDeposu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J012_Alistirmalar/UrunTakip/service/UrunServis.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J016_ConstructurMethod/InstagramPostConstructor/InstagramPost.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J016_ConstructurMethod/InstagramPostConstructor/RunnerInstagramPost.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J016_ConstructurMethod/Kedi/Kedi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/J016_ConstructurMethod/Kedi/Runner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA_STANDART_EDITION/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA_STANDART_EDITION/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA_STANDART_EDITION/.idea/GitLink.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA_STANDART_EDITION/.idea/JAVA_STANDART_EDITION.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA_STANDART_EDITION/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA_STANDART_EDITION/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA_STANDART_EDITION/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA_STANDART_EDITION/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA_STANDART_EDITION/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA_STANDART_EDITION/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA_STANDART_EDITION/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/J001_AdimiYazdir">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/J001_IlkKodlamaOrnegi">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/J002_Degiskenler">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/J003_Operatorler">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/J004_Tekrar">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/J005_Donguler">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/J006_KararYapilari">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/J007_StringClassVariable">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/J008_DizilerArray">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/J009_Tekrar">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/J010_MetodveTurleri">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/J011_ClassAndObject">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/J012_Alistirmalar">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/J013_PaketEntityAccessmodifier">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/J014_StaticKavrami">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/J015_OopParadigm">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/J017_FinalKeyword">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/J018_AbstractClass">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/J019_Enum">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/J020_00pCalisma">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;serkankilicdere&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/serkankilicdere/JAVA_STANDART_EDITION.git&quot;,
+    &quot;accountId&quot;: &quot;40f7aa9d-e775-44e8-b62c-bbc4915f8d65&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/J012_Alistirmalar/src/main/java/InheritanceAndOverriding/Person.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2ovodrv3pNqkYLIEFGVpAOCk4N4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Runner.executor": "Run",
+    "Application.RunnerBankAccount.executor": "Run",
+    "Application.RunnerInstagramPost.executor": "Run",
+    "Application.RunnerPerson.executor": "Run",
+    "Gradle.Build J020_00pCalisma.executor": "Run",
+    "Gradle.J015_OopParadigm [:CalisanPersonel.RunnerCalisan.main()].executor": "Run",
+    "Gradle.J015_OopParadigm [:Okul.OkulRunner.main()].executor": "Run",
+    "Gradle.J015_OopParadigm [:Urun_Odev.RunnerUrun.main()].executor": "Run",
+    "Gradle.J020_00pCalisma [:AracKiralama.Runner.main()].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/BILGE_ADAM/INTELLIJ/JAVA_BOOST_PLUS/SERKAN_KILICDERE/JAVA_STANDART_EDITION",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "CodeWithMe",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="AracKiralama.Entity" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Runner">
+    <configuration name="OkulRunner" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Okul.OkulRunner" />
+      <module name="J015_OopParadigm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Okul.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AracKiralama.Runner" />
+      <module name="J020_00pCalisma.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AracKiralama.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnerBankAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConstructorAndEncapsulation.RunnerBankAccount" />
+      <module name="J012_Alistirmalar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ConstructorAndEncapsulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnerCalisan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalisanPersonel.RunnerCalisan" />
+      <module name="J015_OopParadigm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CalisanPersonel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnerPerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InheritanceAndOverriding.RunnerPerson" />
+      <module name="J012_Alistirmalar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InheritanceAndOverriding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnerUrun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Urun_Odev.RunnerUrun" />
+      <module name="J015_OopParadigm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Urun_Odev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Runner" />
+        <item itemvalue="Application.RunnerUrun" />
+        <item itemvalue="Application.RunnerBankAccount" />
+        <item itemvalue="Application.RunnerPerson" />
+        <item itemvalue="Application.RunnerCalisan" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f989b538-6100-40e9-8ef3-a46ed7184c73" name="Changes" comment="" />
+      <created>1729794934305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729794934305</updated>
+      <workItem from="1729794937802" duration="952000" />
+      <workItem from="1731759501475" duration="3401000" />
+      <workItem from="1731823550807" duration="15907000" />
+      <workItem from="1731863071113" duration="1214000" />
+      <workItem from="1732009212768" duration="7125000" />
+      <workItem from="1732301629283" duration="2250000" />
+      <workItem from="1732338899069" duration="10978000" />
+      <workItem from="1732429180632" duration="11021000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1732453547472</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732453547472</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

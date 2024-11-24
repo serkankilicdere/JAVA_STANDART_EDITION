@@ -1,0 +1,7 @@
+ ***** MÜŞTERİ TAKİP UYGULAMASI *****
+                1- Müşteri Listesi
+                2- Müşteri Borç Listele
+                3- Müşteri Ödeme Al
+                4- Müşteri Arama
+                0- ÇIKIŞ
+                """);

@@ -1,0 +1,9 @@
+/**
+         * Kullanıcıdan kaç adet sayı girmesi gerektiğini alıp
+         * girdiği sayıları bir diziye atıyoruz. sonra bu dizinin
+         * içerisindeki sayıların;
+         * 1- En büyük olanını
+         * 2- En küçük olanını
+         * 3- tüm sayıların ortalamasını bulup
+         * ekrana yazdırıyoruz.
+         */

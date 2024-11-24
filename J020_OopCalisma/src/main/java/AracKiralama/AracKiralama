@@ -1,0 +1,7 @@
+/** * Araç Kiralama Yönetim Sistemi * -------------------------------- * ---
+Müşteri * ---
+Araç (uuid, modelYili, plaka vs., marka ve model) * -----
+ Marka ve Model ayrı birer entity olacaklar.
+ * --- Kiralama * ---
+ Firma(Kiralamayı yapan firma)
+ * --- Bakim * * * */

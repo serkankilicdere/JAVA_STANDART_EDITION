@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/J001_AdimiYazdir" />
+        <option name="gradleJvm" value="23" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/J001_AdimiYazdir" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/J001_IlkKodlamaOrnegi" />
+        <option name="gradleJvm" value="23" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/J001_IlkKodlamaOrnegi" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/J002_Degiskenler" />
+        <option name="gradleJvm" value="23" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/J002_Degiskenler" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/J003_Operatorler" />
+        <option name="gradleJvm" value="23" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/J003_Operatorler" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/J004_Tekrar" />
+        <option name="gradleJvm" value="23" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/J004_Tekrar" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/J005_Donguler" />
+        <option name="gradleJvm" value="23" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/J005_Donguler" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/J006_KararYapilari" />
+        <option name="gradleJvm" value="23" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/J006_KararYapilari" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/J007_StringClassVariable" />
+        <option name="gradleJvm" value="23" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/J007_StringClassVariable" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/J008_DizilerArray" />
+        <option name="gradleJvm" value="23" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/J008_DizilerArray" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/J009_Tekrar" />
+        <option name="gradleJvm" value="23" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/J009_Tekrar" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/J010_MetodveTurleri" />
+        <option name="gradleJvm" value="23" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/J010_MetodveTurleri" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/J011_ClassAndObject" />
+        <option name="gradleJvm" value="23" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/J011_ClassAndObject" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/J012_Alistirmalar" />
+        <option name="gradleJvm" value="23" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/J012_Alistirmalar" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/J013_PaketEntityAccessmodifier" />
+        <option name="gradleJvm" value="23" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/J013_PaketEntityAccessmodifier" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/J014_StaticKavrami" />
+        <option name="gradleJvm" value="23" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/J014_StaticKavrami" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/J015_OopParadigm" />
+        <option name="gradleJvm" value="23" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/J015_OopParadigm" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/J017_FinalKeyword" />
+        <option name="gradleHome" value="" />
+        <option name="gradleJvm" value="23" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/J017_FinalKeyword" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/J018_AbstractClass" />
+        <option name="gradleHome" value="" />
+        <option name="gradleJvm" value="23" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/J018_AbstractClass" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/J019_Enum" />
+        <option name="gradleHome" value="" />
+        <option name="gradleJvm" value="23" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/J019_Enum" />
+            <option value="$PROJECT_DIR$/J019_Enum/J020_OopCalisma" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/J020_00pCalisma" />
+        <option name="gradleHome" value="" />
+        <option name="gradleJvm" value="23" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/J020_00pCalisma" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,67 @@
+/**
+     * Ürün Ekleme
+     * Ürün Listeleme
+     * Ürün Arama
+     * Stoğu Azalan Ürünler
+     * Ürün Satış(ürün seçilir satılan adet girilir ve stoktan düşülür.)
+     * Ürün Giriş(ürün  adedi girilerek stokta artış yapmak.)
+     */
+
+       ********** Ürün Takip Sistemi **********
+                     *************  ANA SAYFA  *****************
+                     1- Ürün Ekle
+                     2- Ürün Listeleme
+                     3- Ürün Arama
+                     4- Stoğu Azalan Ürünler
+                     5- Ürün Satış
+                     6- Ürün Giriş
+                     0- ÇIKIŞ
+                     """);
+
+                       public int siraNo;
+                         public String ad;
+                         public String marka;
+                         public String model;
+                         public int stok;
+
+
+
+
+
+                            /**
+                                  *
+                                  * Müşteri takip te ki gibi bir sistem kurgulayacağız. Burada çalışama yapacağımız
+                                  * konu Ürün Otomasyonu.
+                                  * ------
+                                  * Ürün Class
+                                  * {
+                                  *     siraNo
+                                  *     Ad
+                                  *     Marka
+                                  *     Model
+                                  *     Stok
+                                  *
+                                  * }
+                                  * Ürün Ekleme
+                                  * Ürün Listeleme
+                                  * Ürün Arama
+                                  * Stoğu Azalan Ürünler
+                                  * Ürün Satış(ürün seçilir satılan adet girilir ve stoktan düşülür.)
+                                  * Ürün Giriş(ürün  adedi girilerek stokta artış yapmak.)
+                                  */
+                     }
+
+
+
+
+                     -----------------------------------------------------------------------------
+
+                     BENZER YUKARADKİ ÖDEVE ÖNCE BUNU YAP
+
+                     MÜŞTERİ TAKİP HACADA STATİC KAVRAMI KISMINDA YAPILDI
+
+                       public int siraNo;
+                         public String adSoyad;
+                         public String adres;
+                         public String telefon;
+                         public double borc;

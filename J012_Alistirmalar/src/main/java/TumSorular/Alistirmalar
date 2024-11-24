@@ -1,0 +1,38 @@
+*** Kolay Alıştırmalar
+
+1. Merhaba Dünya: Bir merhabaDunya adlı yöntem yazın ve bu yöntem "Merhaba Dünya" ifadesini ekrana yazdırsın. main metodundan çağırarak test edin.
+2. Toplam Hesapla: İki tam sayı parametresi alan ve bu sayıları toplayıp sonucu döndüren bir toplam metodu yazın.
+3. Tek mi Çift mi?: Bir tam sayı parametresi alan ve bu sayının tek mi çift mi olduğunu döndüren tekMiCiftMi metodunu yazın.
+4. Kare Bul: Bir sayı parametresi alan ve bu sayının karesini döndüren bir kareBul metodu yazın.
+5. Merhaba ile Selamla: Bir isim parametresi alan ve “Merhaba, [isim]” şeklinde bir mesaj döndüren selamla metodunu yazın.
+6. Faktöriyel Hesapla: Bir tam sayı parametresi alan ve bu sayının faktöriyelini hesaplayıp döndüren faktoriyel metodunu yazın.
+
+*** Orta Seviye Alıştırmalar
+
+1. Asal Sayı Kontrolü: Bir tam sayı parametresi alan ve bu sayının asal olup olmadığını döndüren asalMi metodunu yazın.
+2. Küçük Harfleri Büyük Harfe Çevir: Bir dize alan ve içindeki tüm küçük harfleri büyük harfe çevirip döndüren kucuktenBuyuk metodunu yazın.
+3. En Büyük Sayıyı Bul: Üç tam sayı parametresi alan ve bu sayılar arasından en büyüğünü döndüren enBuyukSayi metodunu yazın.
+4. Dizi Toplamı: Bir tam sayı dizisini parametre olarak alan ve dizi elemanlarının toplamını döndüren diziToplami metodunu yazın.
+5. Ters Çevir: Bir dizeyi parametre olarak alan ve bu dizeyi ters çevirip döndüren tersCevir metodunu yazın.
+6. Aralıkta Toplam: İki tam sayı parametresi alan ve bu iki sayı arasındaki sayıların toplamını döndüren aralikToplam metodunu yazın (ör. 3 ve 7 girilirse 3+4+5+6+7).
+
+*** Zor Seviye Alıştırmalar
+
+1. Fibonacci Dizisi: Bir tam sayı parametresi alan ve bu sayıya kadar olan Fibonacci dizisini bir liste olarak döndüren fibonacciDizisi metodunu yazın.
+2. Mükemmel Sayı Kontrolü: Bir sayının mükemmel olup olmadığını kontrol eden mukemmelSayiMi metodunu yazın. (Bir sayı, pozitif çarpanlarının toplamı kendisine eşitse mükemmeldir).
+3. Dizi Ortalaması: Bir tam sayı dizisi parametresi alan ve dizinin ortalamasını döndüren diziOrtalamasi metodunu yazın.
+4. Vize ve Final Notu Hesapla: Vize ve final notlarını parametre olarak alan ve bu notlara göre başarı notunu hesaplayıp döndüren notHesapla metodunu yazın. (Vize %40, final %60 etkilidir).
+5. Armstrong Sayı Kontrolü: Bir sayının Armstrong sayısı olup olmadığını kontrol eden armstrongMu metodunu yazın.
+6. En Uzun Kelimeyi Bul: Bir cümle alan ve içindeki en uzun kelimeyi bulan enUzunKelime metodunu yazın.
+
+**** Bermuda Şeytan Üçgeni ****
+DİKKAT!!! Bu sorular ileri seviye zorluktadır ve henüz bilmediğiniz konuları içermektedir. Yapmak zorunda değilsiniz.
+1-  String Permütasyonları:
+•	Görev: Bir dizeyi parametre olarak alan ve o dizedeki tüm karakterlerin permütasyonlarını üreten stringPermutasyonlari adlı bir yöntem yazın.
+•	İpucu: Rekürsif bir yöntemle permütasyonları üretebilirsiniz. Sonuçları bir List<String> olarak döndürebilirsiniz.
+2-   Matris Çarpımı:
+•	Görev: İki iki boyutlu int matris parametresi alan ve bu iki matrisi çarpan matrisCarp adlı bir yöntem yazın. Çarpım sonucu yeni bir matris olarak döndürülmelidir.
+•	İpucu: Bu işlemde, ilk matrisin sütun sayısı ikinci matrisin satır sayısına eşit olmalıdır. Çarpım sonucunu bir döngü içinde hesaplayın.
+3-   Parantez Denge Kontrolü:
+•	Görev: Bir dizeyi parametre olarak alan ve içinde bulunan parantezlerin ((), {}, []) dengeli olup olmadığını kontrol eden parantezDengesi adlı bir yöntem yazın. Eğer dengeliyse true, değilse false döndürmelidir.
+•	İpucu: Bu sorunu çözmek için Stack veri yapısını kullanabilirsiniz. Her açılış parantezini yığına ekleyin ve bir kapanış parantezi geldiğinde, yığından son eklenen açılışı çekerek eşleşip eşleşmediğini kontrol edin.

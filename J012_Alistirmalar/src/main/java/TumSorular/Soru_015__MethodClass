@@ -1,0 +1,22 @@
+  /**
+         * MüşteriListesi sınıfı içinde
+         * 1- Müşterileri listeleyen bir method
+         * 2- istenilen index e müşteri ekleyen bir method
+         * 3- aranılan bir müşterinin index ini dönen bir method
+         * 4- index i verilen müşteriyi dönen bir method tanımlayın.
+         * DİKKAT!!!!!
+         * müşteri dizisi ilk etapta boş bir dizidir. bu nedenle dizinin
+         * başlatılması gereklidir. Bu işlemi yapan bir method yazın. bu
+         * method dizinin boyutunu istesin ve diziyi oluştursun. Diğer methodlar
+         * dizi başlatılmadan çalışırsa uyarı versin.
+         *
+         */
+
+
+          ***** MÜŞTERİ TAKİP UYGULAMASI *****
+                         1- Müşteri Listesi
+                         2- Müşteri Borç Listele
+                         3- Müşteri Ödeme Al
+                         4- Müşteri Arama
+                         0- ÇIKIŞ
+                         """);

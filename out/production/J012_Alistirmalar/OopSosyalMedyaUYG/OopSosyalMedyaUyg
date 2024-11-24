@@ -1,0 +1,12 @@
+  /**
+         *
+         * Sosyal Medya
+         * Oluşturulacak Class lar
+         * --- Kullanici -> id, ad, email, avatar
+         * --- Post -> kullanici (nesnesi),resim, aciklama, postTarihi, likeCount, yorum(nesne) listesi, like(nesne) listesi
+         * --- Yorum -> kullanıc adı, tarih, yorum
+         * --- Like --> kullanıcı adı, puan
+         * -------------------------------------
+         *
+         *
+         */

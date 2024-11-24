@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/J010_MetodveTurleri" />
+    <file type="web" url="file://$PROJECT_DIR$/J011_ClassAndObject" />
+    <file type="web" url="file://$PROJECT_DIR$/J012_Alistirmalar" />
+    <file type="web" url="file://$PROJECT_DIR$/J013_PaketEntityAccessmodifier" />
+    <file type="web" url="file://$PROJECT_DIR$/J014_StaticKavrami" />
+    <file type="web" url="file://$PROJECT_DIR$/J015_OopParadigm" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="21 (3)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

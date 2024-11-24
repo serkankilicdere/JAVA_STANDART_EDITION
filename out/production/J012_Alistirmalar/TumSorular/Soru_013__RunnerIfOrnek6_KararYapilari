@@ -1,0 +1,104 @@
+ /**
+         * Kullanıcıdan bir sayı alarak aşağıdaki görseli elde edecek bir
+         * kodlamayı yazpınız.
+         * ÖRN;
+         * 5-10 arası bir sayı giriniz...: 6
+         * 1
+         * 1 2
+         * 1 2 3
+         * 1 2 3 4
+         * 1 2 3 4 5
+         * 1 2 3 4 5 6
+      -------------------------------------------------------------------------
+         */ /**Runner if ornek 7
+                    * Tek for ile nasıl çözülür?
+                    */
+                   /**
+                    * pozitif bir sayı giriniz...: 5
+                    *    i=1
+                    *      *  *  *  *  *
+                    *      *  *  *  *  *
+                    *      *  *  *  *  *
+                    *      *  *  *  *  *
+                    *      *  *  *  *  *
+                    * şeklinde çıktı veren kodu yazınız.
+---------------------------------------------------------------------------------
+          Runner if ornek 8
+          /**
+                   * 1 ile 100 arasındaki tek sayıların adedini bulan kodu yazınız.
+                   * 1,3,5,7,9 => 5 adet
+                   */
+---------------------------------------------------------------------------------
+                   runner if ornek9
+
+                     /**
+                            * Kullanıcıdan 3 adet sayı alıyoruz ve bu sayıların en büyük ve en küçük olanlarını
+                            * buluyoruz, sonra en büyük sayı ile en küçük sayı arasındaki farkı bulup
+                            * ekrana;
+                            * EnBüyük sayı: X, EnKüçük sayı: Y, aralarındaki fark: Z
+                            * şeklinde çıktı yapan kodu yazınız.
+                            */
+-------------------------------------------------------------------------------
+runner odev
+
+    /**
+         *
+         *  . . . . .
+         *  . . . . .
+         *  . . * . .
+         *  . . . . .
+         *  . . . . .
+         *      8
+         *   4     6
+         *      2
+         *  yön seçiniz: 2
+         *  . . . . .
+         *  . . . . .
+         *  . . . . .
+         *  . . * . .
+         *  . . . . .
+         *  yön seçiniz: 2
+         *  . . . . .
+         *  . . . . .
+         *  . . . . .
+         *  . . . . .
+         *  . . * . .
+         * yön seçiniz: 2
+         *  . . * . .
+         *  . . . . .
+         *  . . . . .
+         *  . . . . .
+         *  . . . . .
+         *
+         * yön seçiniz: 6
+         *    1 2 3 4 5
+         *  1 . . . . .
+         *  2 . . . . .
+         *  3 . . * . .
+         *  4 . . . . .
+         *  5 . . . . .
+         */
+--------------------------------------------------------------------------------------
+
+Hesap Makinası
+Otel Otomasyon
+OkulSinifOdev.Okul Otomasyon
+
+   *******************
+                **   İŞLEMLER    **
+                1- Toplama
+                2- Çıkartma
+                3- Çarpma
+                4- Bölme
+                0- ÇIKIŞ
+                """);
+
+                  **** Otel Otomayon ****
+                                1- Kayıt
+                                2- Müşteri Arama
+                                3- Oda Ekleme
+                                4- Oda Listesi
+                                5- Oda Arama
+                                6- Raporlama
+                                0- ÇIKIŞ
+                                """);

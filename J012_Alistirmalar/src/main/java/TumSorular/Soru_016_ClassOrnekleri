@@ -1,0 +1,29 @@
+  /**
+         *
+         * Bir bilgisayar bileşenleri satış mağazası bizden ürünlerini ekleyip
+         * listeleyeceği bir uygulama istedi.
+         * --- BilgisayarBileseni (özellikeri ile soyutluyorsunuz)
+         * ---- marka, model, ad, fiyat, stok
+         * --- bir liste dizi oluşturuyorsunuz
+         * --- 6 adet ürün oluşturup listeye ekliyorsunuz.
+         * --- listeme yapıyorsunuz.
+         */
+
+        /**
+         *
+         * OkulSinifOdev.Okul class
+         * --- ad
+         * --- adres
+         * --- telefon
+         * --- müdür adı
+         * --- sınıf listesi
+         *
+         * Sınıf
+         * --- ad
+         * --- kat
+         * --- odano
+         * --- öğrenci sayısı
+         *
+         * 1 adet okul, içerisine 4 adet sınıf ekleyin.
+         *
+         */

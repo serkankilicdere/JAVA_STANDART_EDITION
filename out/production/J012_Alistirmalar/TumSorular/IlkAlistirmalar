@@ -1,0 +1,104 @@
+ALIŞTIRMALAR :
+
+ * Değişkenler ile İlgili Alıştırmalar:
+ * Problem: Kullanıcıdan iki tamsayı alın ve bu sayıların toplamını, farkını, çarpımını ve bölümünü ekrana yazdıran bir program yazın.
+ * Problem: Bir öğrencinin sınav notlarını (vize ve final) kullanıcıdan alın, vize %40, final %60 etkili olacak şekilde ortalamayı hesaplayın.
+ * Problem: Kullanıcıdan yarıçapı alınan bir dairenin alanını ve çevresini hesaplayan bir program yazın (alan = π * r^2, çevre = 2 * π * r).
+ * Problem: Kullanıcıdan bir cümle alın ve cümlenin karakter sayısını ekrana yazdıran bir program yazın.
+ * Problem: Kullanıcıdan bir ürünün fiyatını alın ve %18 KDV eklenmiş halini ekrana yazdıran bir program yazın.
+ * Koşullar ile İlgili Alıştırmalar:
+ * Problem: Kullanıcıdan bir tamsayı alın ve bu sayının çift mi, tek mi olduğunu belirleyin.
+ * Problem: Bir öğrencinin notunu (0-100 arası) kullanıcıdan alın ve 50’den büyükse “Geçti”, küçükse “Kaldı” şeklinde sonuç yazdırın.
+ * Problem: Kullanıcıdan doğum yılını alın ve 18 yaşından büyük olup olmadığını kontrol edin. Büyükse "Reşit", değilse "Reşit değil" yazdırın.
+ * Problem: Kullanıcıdan üç sayı alın ve en büyüğünü ekrana yazdırın.
+ * Problem: Kullanıcıdan bir ay ismi alın ve o ayın kaç gün çektiğini ekrana yazdıran bir program yazın (şubat için 28 varsayılabilir).
+ * Döngüler ile İlgili Alıştırmalar:
+ * Problem: 1’den 100’e kadar olan sayıları ekrana yazdıran bir program yazın.
+ * Problem: Kullanıcıdan bir sayı alın ve bu sayının faktöriyelini hesaplayın.
+ * Problem: Kullanıcıdan bir sayı alın ve bu sayının asal olup olmadığını kontrol eden bir program yazın.
+ * Problem: Kullanıcıdan bir sayı alın ve bu sayıya kadar olan çift sayıları ekrana yazdıran bir program yazın.
+ * Problem: 1’den 100’e kadar olan sayılar içinde 3 ve 5 ile bölünebilen sayıları ekrana yazdırın.
+ * Diziler ile İlgili Alıştırmalar:
+ * Problem: 5 elemanlı bir dizi oluşturun, kullanıcıdan elemanları alın ve bu dizinin ortalamasını hesaplayın.
+ * Problem: Bir dizideki en küçük elemanı ve indeksini bulan bir program yazın.
+ * Problem: Bir dizi oluşturun ve dizideki elemanları küçükten büyüğe sıralayan bir program yazın.
+ * Problem: Kullanıcıdan bir dizi alın ve dizide tekrar eden elemanları bulun.
+ * Problem: 10 elemanlı bir dizide yalnızca çift sayıları ekrana yazdıran bir program yazın.
+ */
+
+SORULAR:
+1-	Bir kişinin öğrencilik süresini alıp hangi okul döneminde olduğunu söyleyen kodu yazınız.
+<5.   “Elemantary School”
+5<= gradle <8  ”Junior School”
+8<= gradle <10 “High School”
+>=10   “College”
+<0  “NONE”
+
+2-	Bir yolculuk için toplam maliyeti hesaplayan kodu yazınız. Kurallar;
+-	L: LPG için H: Hibrit için kullanılacaktır.
+-	Arabanın yaşı ve yolculuğun  KM si için 2 tam sayı değeri alın
+-	Kullanıcı L veya H girmez ise hata verin
+-	Toplam maliyet motor tipine göre hesaplanacaktır
+-	LPG 100km de 3.3lt
+-	HIBRIT 100km de 4.2lt
+-	LPG yakıtı 1.6₺  1 litre için
+-	Aracın yaşı 7 den küçük ve eşit ise toplam maliyeti yazdırmanız yeterli
+-	Arabanın yaşı 7 den fazla ve 12 ye eşit ve küçük ise maliyet %3 arttırılmalı
+-	Arabanın yaşı 12 de n büyük ise toplam maliyet %7 arttırılmalıdır.
+
+3-	Kübik number ları yazdıracaksınız ancak ekranda çıktılandığı şekilde olması istenmektedir
+Örn:
+Bir sayı giriniz…: 5
+Sayı	 1:125
+Sayi	 2:64
+Sayi	 3:27
+Sayi	4:8
+Sayi	5:1
+
+Bir sayı giriniz…: 9
+Sayi	 1:729
+Sayi	 2:512
+Sayi	 3:343
+Sayi	 4:216
+Sayı	 5:125
+Sayi	 6:64
+Sayi	 7:27
+Sayi	8:8
+Sayi	9:1
+
+4-	Kullanıcıdan 0-100 arası bir sayı girmesini isteyeceksiniz. Bu sayılar dışında bir değer girer ise girilen sayı sınır dışında bir sayıdır uyarısı vereceksiniz. Temel kural olarak Kullanıcının girdiği geçerli sayıların toplamı 100 ü geçtiğinde sayı istemeyi durduracaksınız. Kullanıcıdan alınan sayıların en büyük olanı, en küçük olanı ve ortalamasını hesaplayan kodu yazınız.
+Örn:
+Sayı gir…: 5
+Sayı gir…: 12
+Sayı gir…: 55
+Sayı gir…: 43
+Max: 55
+Min: 5
+Ort: 28.75
+
+Örn:
+Sayı gir…: 95
+Sayı gir…: 105
+Girilen sayı aralık dışı
+Sayı gir…: 1
+Sayı gir…: 5
+Max: 95
+Min: 1
+Ort: 33,666666666664
+
+5-	Elimizde şöyle bir liste var, bu listeden şehir seçildiğinde ilgili şehirin plaka numarasını veren kodu yazınız.
+01-	Adana
+02-	Adıyaman
+03-	Ayfon
+10-	Balıkesir
+11-	Bilecik
+12-	Bingöl
+13-	Bitlis
+20- Denizli
+Yukarıda verilen plaka kodlarını kullanacaksınız.
+Örn:
+Şehir adını giriniz: ADANA
+Plaka: 01
+Örn:
+Şehir adını giriniz: BiTLis
+Plaka: 13

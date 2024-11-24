@@ -1,0 +1,10 @@
+ /**
+         * f(x,y) = x^y gibi bir fonksiyon olsun, burada işlem
+         * x üzeri y şeklinde sonuç veren bir fonksiyon. Buna göre
+         * x ve y kullanıcıdan alınarak sonucu bulan for döngüsünü yazınız.
+         * 5^3 (5 üzeri 3) => 125 = 5*5*5
+         *
+         * 7^5 => 7 * 7 * 7 * 7 * 7
+         */
+
+         Çarpım Tablosunu yaz yap

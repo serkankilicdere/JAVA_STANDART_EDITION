@@ -1,0 +1,23 @@
+/**
+         * Bir meethod String bir ifade alacak ve devamında int tipinde
+         * index değerleri alacak. Int değerler ifade içerisindeki
+         * indexlere karşılık gelecek ve ilgili karakterleri dönecektir.
+         */
+         
+         /**
+              * bir String ifade alacak, int tipinde startIndex ve endIndex şeklinde
+              * iki değişken alacak. bu method ifadeyiKes adında bir method olacak
+              * -- başlangıç değeri bitisten büyük olduğunda uyarı verin ve boş dönün
+              * -- başlangıç ya da bitiş ifadenin sınırlarını aştığında uyarı verin ve boş dönün
+              *
+              * örn: muhammet hoca ile java programlama dersi, 5, 9
+              * sonuç: met h
+              * --------------
+              * örn: muhammet hoca ile java programlama dersi, 9, 2
+              * uyarı...: başlangıç bitişten büyük olamaz
+              * sonuç: ""
+              * -----------
+              * örn: muhammet hoca ile java programlama dersi, 900, 2000
+              * uyarı...: lütfen sınırlar içinde değer giriniz.
+              * sonu: ""
+              */

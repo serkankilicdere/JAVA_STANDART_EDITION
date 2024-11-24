@@ -1,0 +1,20 @@
+ /**
+         * KOLAY:
+         * 1- iki sayı alarak sayılardan büyük olanı bulan ve ekrana yazdıran
+         * geriye değer döndürmeyen bir method yazınız.
+         *
+         * 2- 3 adet sayı değeri alan ve sayılardan en büyük 2 tanesinin farkının
+         * en küçük sayıdan büyük olup olmadığını dönen method u yazınız
+         *
+         * 3- iki String ifade alarak, 1. ifadenin içerisinde 2. ifadenin
+         * yer alıp almadığını dönen method u yazınız.
+         * "buhün hava güneşli ancak soğuk idi.", "hava"
+         *
+         * 4- bir String ifade alan ve ifadenin ilk ve son harflerini
+         * dönen method u yazınız.
+         * > muhammet hoca
+         * çıktı: ma
+         * ZOR:
+         * bir ifade alan ve bu ifadenin kelimelerini ters çevirerek
+         * String bir değer olarak dönen kodu yazınız.
+         */
